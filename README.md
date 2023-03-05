@@ -13,7 +13,7 @@ Source code of the paper "A Novel Tensor Learning Model for Joint Relational Tri
 #### Dataset and Pre-trained Embedding:
 Pre-trained Glove 840B Embedding: Download from https://nlp.stanford.edu/projects/glove/ 
 
-Dataset Download from https://pan.baidu.com/s/1X9PCc2_2iNsdwlYy3a7Xww with code "iexm".
+Dataset Download from https://github.com/NKU-IIPLab/SMHSA.
 
 
 #### How to run:

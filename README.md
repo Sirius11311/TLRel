@@ -1,4 +1,4 @@
-# SMHSA
+# TLRel
 Source code of the paper "A Novel Tensor Learning Model for Joint Relational Triplet Extraction"
 
 
